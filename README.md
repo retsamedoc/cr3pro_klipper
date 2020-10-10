@@ -1,10 +1,14 @@
 # Ender 3 Pro Klipper Profile
 
-Updates:
-- Updated to Klipper 0.8.
-- Switched to TMC2208 drivers.
+Packages: 
+  https://github.com/KevinOConnor/klipper
+  https://github.com/Arksine/moonraker
+  https://github.com/meteyou/mainsail
 
-Klipper updates: http://github.com/manu7irl/klipper-DWC2-installer
+Updates:
+- Now using Moonraker/Mainsail (replacing DWC2 + hacks)
+- Improved macros (PAUSE/RESUME)
+
 
 - - - 
 This repo based on f0or1s' [cr10_klipper repo](http://github.com/fl0r1s/cr10_klipper).
